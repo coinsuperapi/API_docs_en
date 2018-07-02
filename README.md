@@ -190,38 +190,35 @@ Complete Request Body :
 
 ### List of API Endpoints
 
-```
-1. User Asset Queries
+1. [User Asset Queries](https://github.com/coinsuperapi/API_docs_en/wiki#1user-asset-queries)
 
-1.1 Personal Asset Information
+   1.1 [Personal Asset Information](https://github.com/coinsuperapi/API_docs_en/wiki#11-personal-asset-information)
 
-2. Transactions
+2. [Transactions](https://github.com/coinsuperapi/API_docs_en/wiki#2-transactions)
 
-2.1 Place a Buy Order
+   2.1 [Place a Buy Order](https://github.com/coinsuperapi/API_docs_en/wiki#21-place-a-buy-order)
 
-2.2 Place a Sell Order
+   2.2 [Place a Sell Order](https://github.com/coinsuperapi/API_docs_en/wiki#22-place-a-sell-order)
 
-2.3 Cancel Order
+   2.3 [Cancel Order](https://github.com/coinsuperapi/API_docs_en/wiki#23-cancel-order)
 
-2.4 Return Order List
+   2.4 [Return Order List](https://github.com/coinsuperapi/API_docs_en/wiki#24-return-order-list)
 
-2.5 Return Order Details
+   2.5 [Return Order Details](https://github.com/coinsuperapi/API_docs_en/wiki#25-return-detailed-order-list)
 
-2.6 Pending Order List
+   2.6 [Pending Order List](https://github.com/coinsuperapi/API_docs_en/wiki#26-pending-order-list)
 
-3. Quotes
+3. [Quotes](https://github.com/coinsuperapi/API_docs_en/wiki#3quotes)
 
-3.1 Detailed Market Quotes (Top 10%)
+   3.1 [Detailed Market Quotes (Top 10%)](https://github.com/coinsuperapi/API_docs_en/wiki#31-detailed-market-quote-10)
 
-3.2 Detailed Market Quotes (Top 1-50)
+   3.2 [Detailed Market Quotes (Top 1-50)](https://github.com/coinsuperapi/API_docs_en/wiki#32-detailed-market-quote-1-50)
 
-3.3 Real Time Price Quotes
+   3.3 [Real Time Price Quotes](https://github.com/coinsuperapi/API_docs_en/wiki#33-real-time-price-quotes)
 
-3.4 Real-Time Transaction Quotes
+   3.4 [Real-Time Transaction Quotes](https://github.com/coinsuperapi/API_docs_en/wiki#34-real-time-transaction-quotes)
 
-3.5 Supported Currency Pairs List
-
-```
+   3.5 [Supported Currency Pairs List](https://github.com/coinsuperapi/API_docs_en/wiki#35-supported-currency-pairs-list)
 
 ### API Endpoint Definition
 
