@@ -84,4 +84,4 @@ You can join the API communication QQ group 472488338 with comment of API + your
 ------
 
 * [查看中文API文档](https://github.com/coinsuperapi/API_docs)
-* [API call DEMO](https://github.com/coinsuperapi/REST_API_demos)
+* [API Call DEMO](https://github.com/coinsuperapi/REST_API_demos)
