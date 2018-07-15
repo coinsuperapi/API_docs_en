@@ -19,6 +19,8 @@ Update Log
 
 ## [1. General Information](https://github.com/coinsuperapi/API_docs_en/wiki#1-general-information)
 
+[API Requeste URI Prefix](https://github.com/coinsuperapi/API_docs_en/wiki#api-request-uri-prefix)
+
 #### [API Specifications](https://github.com/coinsuperapi/API_docs_en/wiki#api-specifications)
 
 ##### [POST Body Format](https://github.com/coinsuperapi/API_docs_en/wiki#post-body-format)
