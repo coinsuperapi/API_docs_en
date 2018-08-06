@@ -76,7 +76,9 @@ Update Log
 ## Contact Us
 
 ```
-You can join the API communication QQ group 472488338 with comment of API + your coinsuper account email.
+You can join the following API communication groups with comment of API + your coinsuper account email:
+1.QQ group 472488338 
+2.Telegram group https://t.me/joinchat/HEgiSxBKVx6nwQ33otJ3Zg
 ```
 
 
