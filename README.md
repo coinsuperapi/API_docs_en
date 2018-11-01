@@ -51,11 +51,17 @@ Update Log
 
 ##### [2.3 Cancel Order](https://github.com/coinsuperapi/API_docs_en/wiki#23-cancel-order)
 
-##### [2.4 Return Order List](https://github.com/coinsuperapi/API_docs_en/wiki#24-return-order-list)
+##### [2.4 Batch Cancellation of Orders](https://github.com/coinsuperapi/API_docs_en/wiki#24-batch-cancellation-of-orders)
 
-##### [2.5 Return Detailed Order List](https://github.com/coinsuperapi/API_docs_en/wiki#25-return-detailed-order-list)
+##### [2.5 Return Order List](https://github.com/coinsuperapi/API_docs_en/wiki#24-return-order-list)
 
-##### [2.6 Pending Order List](https://github.com/coinsuperapi/API_docs_en/wiki#26-pending-order-list)
+##### [2.6 Return Detailed Order List](https://github.com/coinsuperapi/API_docs_en/wiki#25-return-detailed-order-list)
+
+##### [2.7 Pending Order List](https://github.com/coinsuperapi/API_docs_en/wiki#26-pending-order-list)
+
+##### [2.8 Query Personal Order History](https://github.com/coinsuperapi/API_docs_en/wiki#28-query-personal-order-history)
+
+##### [2.9 Query Personal Order History](https://github.com/coinsuperapi/API_docs_en/wiki#29-query-personal-order-history)
 
 #### [3.Quotes](https://github.com/coinsuperapi/API_docs_en/wiki#3quotes)
 
