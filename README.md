@@ -61,7 +61,7 @@ Update Log
 
 ##### [2.8 Query Personal Order History](https://github.com/coinsuperapi/API_docs_en/wiki#28-query-personal-order-history)
 
-##### [2.9 Query Personal Order History](https://github.com/coinsuperapi/API_docs_en/wiki#29-query-personal-order-history)
+##### [2.9 Query Personal Trade History](https://github.com/coinsuperapi/API_docs_en/wiki#29-query-personal-trade-history)
 
 #### [3.Quotes](https://github.com/coinsuperapi/API_docs_en/wiki#3quotes)
 
